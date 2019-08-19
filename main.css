@@ -1,0 +1,23 @@
+#container {
+    display: grid;
+    width: 500px;
+    height: 500px;
+    
+    margin: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+} 
+
+.grid-item {
+    background-color: #9ce22e;
+}
+
+.colorer {
+    background-color: #1f3102;
+}
+
+#btndiv{
+    text-align: center;
+    padding: 1%;
+}
